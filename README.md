@@ -23,4 +23,4 @@ The output looks like : <br />
 ![](sentiment.gif)
 
 GET IN TOUCH WITH ME 
-email: sium@gmail.com
+email: sium@nuist.edu.cn
